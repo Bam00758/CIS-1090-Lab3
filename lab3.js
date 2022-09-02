@@ -5,11 +5,9 @@
 
 
 
-//         (use this space)
-
-
-
-
+function cube(number){
+    return number*number*number;
+}
 
 //DON'T CHANGE THINGS BELOW THIS LINE
 //But feel free to read them 😊
